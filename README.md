@@ -1,16 +1,17 @@
-# dicee_fluter
+# Dicee Flutter App 🎲
 
-A new Flutter project.
+A simple Flutter app that rolls two dice randomly when tapped.
 
-## Getting Started
+## Features
+- Tap either dice to roll both.
+- Random dice faces (1-6).
+- Sleek red UI.
 
-This project is a starting point for a Flutter application.
+## Screenshot
+![Dice App Screenshot]<img width="165" alt="DiceeApp" src="https://github.com/user-attachments/assets/a9e7728b-9c40-492f-b6c1-2c745cf85d6e" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/alisaqibh1/dicee_flutter.git
