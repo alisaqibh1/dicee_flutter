@@ -8,7 +8,9 @@ A simple Flutter app that rolls two dice randomly when tapped.
 - Sleek red UI.
 
 ## Screenshot
-![Dice App Screenshot]<img width="165" alt="DiceeApp" src="https://github.com/user-attachments/assets/a9e7728b-9c40-492f-b6c1-2c745cf85d6e" />
+![Dice App Screenshot]
+<img width="164" alt="DiceeApp" src="https://github.com/user-attachments/assets/bcadc6b6-554e-47a7-9698-b7d456839ff5" />
+
 
 
 ## How to Run
